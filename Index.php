@@ -1,14 +1,14 @@
 <?php
     //Inicio de Sesión
 
-    session_start();
+    /*session_start();
     if(isset($_SESSION['usuario_abc'])){
         header('Location: menu.php');
     }
 
     require_once 'config.php';
     require_once 'clase_sql.php';
-    $clase_login = NEW Clase_sql();
+    $clase_login = NEW Clase_sql();*/
    
    // $res = $clase_login->ConsultaLogin();
    
