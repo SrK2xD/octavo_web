@@ -25,7 +25,7 @@ Universidad
                     CONSULTA CATEGORIA   
                     </div>  
                         <div class="col-md-6 text-right"> 
-                            <button type="button" class="btn btn-danger" data-toggle='modal' data-target="#ventana2"> Nueva Categoria </button>
+                            <button type="button" class="btn btn-danger" data-toggle='modal' data-target="#intex.php"> Nueva Categoria </button>
                         </div> 
             </div>
 
